@@ -107,7 +107,7 @@ main {
   padding-right: 10px;
 }
 
-@media (max-width: 375px) {
+@media (max-width: 470px) {
   body {
     width: 100vw;
     height: 100vh;
@@ -147,6 +147,4 @@ main {
   #product-card > .product-details > p {
     font-size: 14px;
   }
-}
-
-/*# sourceMappingURL=style.css.map */
+}/*# sourceMappingURL=style.css.map */
